@@ -1,6 +1,6 @@
 # Awesome Community Builders
 
-Recopilación de recursos para personas que gestionas de comunidades tecnológicas:
+**Propósito**: Hacer un recopilatorio de recursos para personas que gestionas de comunidades tecnológicas
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
