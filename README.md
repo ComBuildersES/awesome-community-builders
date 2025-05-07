@@ -1,6 +1,6 @@
 # Awesome Community Builders  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Propósito**: Hacer un recopilatorio de recursos para personas que gestionas de comunidades tecnológicas
+**Propósito**: Hacer un recopilatorio de recursos para personas que dinamizan comunidades tecnológicas
 
 ---
 
