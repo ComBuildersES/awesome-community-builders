@@ -2,25 +2,28 @@
 
 **Propósito**: Hacer un recopilatorio de recursos para personas que gestionas de comunidades tecnológicas
 
+---
+
+## Contenidos
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-  - [Buenas prácticas](#buenas-pr%C3%A1cticas)
-  - [Calendarios](#calendarios)
-    - [Tech meetups](#tech-meetups)
-    - [Conferencias](#conferencias)
-    - [Conferencias y tech meetups](#conferencias-y-tech-meetups)
-  - [Herramientas](#herramientas)
-    - [Para conferencias](#para-conferencias)
-    - [Para Tech Meetups](#para-tech-meetups)
-    - [Financiación](#financiaci%C3%B3n)
-    - [Métricas](#m%C3%A9tricas)
-    - [Otras](#otras)
-  - [Referencias](#referencias)
-    - [Páginas](#p%C3%A1ginas)
-    - [Libros](#libros)
-    - [Otras recopilaciones](#otras-recopilaciones)
-- [Licencia](#licencia)
+- [Buenas prácticas](#buenas-pr%C3%A1cticas)
+- [Calendarios](#calendarios)
+  - [Tech meetups](#tech-meetups)
+  - [Conferencias](#conferencias)
+  - [Conferencias y tech meetups](#conferencias-y-tech-meetups)
+- [Herramientas](#herramientas)
+  - [Para conferencias](#para-conferencias)
+  - [Para Tech Meetups](#para-tech-meetups)
+  - [Financiación](#financiaci%C3%B3n)
+  - [Métricas](#m%C3%A9tricas)
+  - [Otras](#otras)
+- [Referencias](#referencias)
+  - [Páginas](#p%C3%A1ginas)
+  - [Libros](#libros)
+  - [Otras recopilaciones](#otras-recopilaciones)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -122,5 +125,12 @@ Páginas, libros, o lecturas interesantes sobre la gestión de comunidades
 
 * [Recommended reading for community leaders](http://dangerouslyawesome.com/recommended-reading-for-community-leaders/)
 
-# Licencia
-[Attribution-ShareAlike 4.0 International](https://github.com/Comunidades-Tecnologicas/docs/blob/master/license.md)
+---
+
+**Contribuciones**
+
+Puedes enviar un pull request para proponer una actualización, pero antes de hacerlo, por favor:
+
+* [Revisa la guía de contribución para este repositorio.](CONTRIBUTING.md)
+* [Echa un vistazo a los issues registradas anteriormente.](https://github.com/ComBuildersES/awesome-community-builders/issues)
+
