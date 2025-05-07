@@ -2,7 +2,7 @@
 
 ## ¿Quién puede participar?
 
-En esta iniciativa puede contribuir quien quiera.
+En esta iniciativa puede contribuir cualquier persona (no hace falta dinamizar una comunidad).
 
 ## ¿Qué puedo hacer?
 
