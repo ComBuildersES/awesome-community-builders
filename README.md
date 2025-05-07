@@ -1,4 +1,4 @@
-# Awesome Community Builders
+# Awesome Community Builders  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 **Propósito**: Hacer un recopilatorio de recursos para personas que gestionas de comunidades tecnológicas
 
@@ -41,6 +41,24 @@
 ## Calendarios
 Este es un listado de diferentes proyectos realizados con el fin de recopilar eventos de diferente índole y con diferente cobertura geográfica.
 
+### Conferencias
+
+Calendarios de conferencias:
+* [Conference Tracker](https://milendyankov.com/ConferenceTracker/#/) (2019-2024)
+* [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda#readme) (2017-2024)
+* [Eventos para developers, startuperos y technólogos](https://docs.google.com/spreadsheets/d/1VJRVTa1xm7-VlshZY5TD76iHjw0D7qik3b_aIneBl2A/edit?usp=sharing) (Spreadsheet) (mantenido hasta 2022)
+* [Otros buscadores (e.j. call for papers)](https://github.com/devrelcollective/awesome-devrel#cfps-and-speaking-resources)
+* [Spain calendar of Events](https://sudden-larch-de8.notion.site/1e953627e992471988f9654235413969?v=820a3b3fbce44b2798ca838b5250b80a) (mantenido hasta 2023)
+
+### Conferencias y tech meetups
+
+Calendarios y tech meetups:
+* [Eventos.wiki](https://www.eventos.wiki) (by [Alberto Chamorro](https://github.com/achamorro-dev/eventoswiki)) (España, creo)
+* [Agenda Betabeers](https://betabeers.com/event/) (sin actividad desde {2022)
+* [Calendario eventos tech de Madrid](https://madridtechtalks.com/)
+* [Calendario eventos tech de Barcelona](https://yannklein.github.io/tech-eventboard/?city=barcelona)
+* [eventgarden.io](https://eventgarden.io/) (by [Carlillo](https://x.com/carlillo))  (internacional)
+
 ### Tech meetups
 
 * Calendarios por zonas geográficas:
@@ -51,24 +69,6 @@ Este es un listado de diferentes proyectos realizados con el fin de recopilar ev
   * [Calendario de comunidades técnicas de Sevilla](https://svqtech.com/calendario/)
   * [Calendario de comunidades técnicas de Vigo](https://vigotech.org/)
 * Calendario de comunidades en España: [Agregador de calendarios (by Jesús Cea)](http://calendario.es.python.org/fusion.ics)
-
-### Conferencias
-
-Calendarios de conferencias:
-* [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda#readme) (2017-2024)
-* [Conference Tracker](https://milendyankov.com/ConferenceTracker/#/) (2019-2024)
-* [Eventos para developers, startuperos y technólogos](https://docs.google.com/spreadsheets/d/1VJRVTa1xm7-VlshZY5TD76iHjw0D7qik3b_aIneBl2A/edit?usp=sharing) (Spreadsheet) (mantenido hasta 2022)
-* [Spain calendar of Events](https://sudden-larch-de8.notion.site/1e953627e992471988f9654235413969?v=820a3b3fbce44b2798ca838b5250b80a) (mantenido hasta 2023)
-* [Otros buscadores (e.j. call for papers)](https://github.com/devrelcollective/awesome-devrel#cfps-and-speaking-resources)
-
-### Conferencias y tech meetups
-
-Calendarios y tech meetups:
-* [Eventos.wiki](https://www.eventos.wiki) (by [Alberto Chamorro](https://github.com/achamorro-dev/eventoswiki)) (España, creo)
-* [Calendario eventos tech de Madrid](https://madridtechtalks.com/)
-* [Calendario eventos tech de Barcelona](https://yannklein.github.io/tech-eventboard/?city=barcelona)
-* [eventgarden.io](https://eventgarden.io/) (by [Carlillo](https://x.com/carlillo))  (internacional)
-* [Agenda Betabeers](https://betabeers.com/event/) (sin actividad desde {2022)
 
 ## Herramientas 
 
