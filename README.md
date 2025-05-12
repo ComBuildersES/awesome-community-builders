@@ -39,10 +39,9 @@
 
 ## Calendarios
 
-Este es un listado de diferentes proyectos realizados con el fin de recopilar eventos de diferente índole y con diferente cobertura geográfica.
+Este es un recopilatorio de distintos proyectos creados para centralizar eventos de diversa temática y alcance geográfico. Contar con estos calendarios resulta especialmente útil al planificar nuevas actividades, ya que permite evitar solapamientos con otros eventos que podrían reducir la asistencia o afectar a la participación.
 ### Conferencias
 
-Calendarios de conferencias:
 * [Conference Tracker](https://milendyankov.com/ConferenceTracker/#/) (2019-2024)
 * [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda#readme) (2017-2024)
 * [Eventos para developers, startuperos y technólogos](https://docs.google.com/spreadsheets/d/1VJRVTa1xm7-VlshZY5TD76iHjw0D7qik3b_aIneBl2A/edit?usp=sharing) (Spreadsheet) (mantenido hasta 2022)
@@ -58,9 +57,8 @@ Calendarios de conferencias:
   * [Calendario de comunidades técnicas de Sevilla](https://svqtech.com/calendario/)
   * [Calendario de comunidades técnicas de Vigo](https://vigotech.org/)
 * Calendario de comunidades en España: [Agregador de calendarios (by Jesús Cea)](http://calendario.es.python.org/fusion.ics)
-### Todos
+### Todo tipo de eventos
 
-Calendarios y tech meetups:
 * [Agenda Betabeers](https://betabeers.com/event/) (sin actividad desde 2022)
 * [Calendario eventos tech de Madrid](https://madridtechtalks.com/)
 * [Calendario eventos tech de Barcelona](https://yannklein.github.io/tech-eventboard/?city=barcelona)
@@ -69,7 +67,7 @@ Calendarios y tech meetups:
 * [Saraos.tech](https://saraos.tech/): Publicador online de eventos tech.
 ## Documentación
 
-Páginas, libros, o lecturas interesantes sobre la gestión de comunidades.
+Este apartado recoge guías prácticas, libros, páginas web y recopilaciones útiles para quienes dinamizan comunidades tecnológicas. Ya sea para montar un grupo local, facilitar eventos, promover la inclusión o estructurar la comunicación, aquí encontrarás recursos de referencia elaborados por comunidades reales, con aprendizajes que puedes adaptar a tu propio contexto.
 ### Guías
 
 * **Creación de grupos locales**:
@@ -120,6 +118,8 @@ Páginas, libros, o lecturas interesantes sobre la gestión de comunidades.
 * [Recommended reading for community leaders](http://dangerouslyawesome.com/recommended-reading-for-community-leaders/): libros, ensayos, investigaciones académicas y videos sobre temas como construcción de comunidades, liderazgo, diseño colaborativo, coworking y motivación
 ## Herramientas
 
+Selección de herramientas que pueden facilitar muchas de las tareas habituales en la gestión de comunidades: desde alojar una web o automatizar procesos, hasta coordinar equipos o facilitar el networking en eventos. La mayoría ofrecen una son gratuitas o de código abierto.
+
 ### Alojamiento y despliegue de sitios web
 
 * [Cloudflare Pages](https://pages.cloudflare.com/): Hosting estático gratuito con despliegues automáticos desde Git y CDN global. También soporta funciones serverless (Cloudflare Workers).
@@ -128,7 +128,7 @@ Páginas, libros, o lecturas interesantes sobre la gestión de comunidades.
 * [Netlify](https://www.netlify.com/): Despliegue automático desde repositorios, HTTPS gratis, funciones serverless, formularios y más.
 * [Render](https://render.com/): Hosting estático gratuito con HTTPS, despliegue desde Git, soporte para servicios backend también.
 * [Surge](https://surge.sh/): Despliegue estático súper simple desde la terminal, sin necesidad de cuenta GitHub.
-* [Vercel](https://vercel.com/): Integración con Git, despliegues instantáneos, soporte para frameworks como Next.js, Astro, SvelteKit..
+* [Vercel](https://vercel.com/): Integración con Git, despliegues instantáneos, soporte para frameworks como Next.js, Astro, SvelteKit.
 ### Automatización
 
   * [Zapier](https://zapier.com/app/home): Plataforma para automatizar flujos de trabajo conectando aplicaciones sin necesidad de programar. (Freemium)
@@ -304,8 +304,6 @@ Páginas, libros, o lecturas interesantes sobre la gestión de comunidades.
 * [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators): Una lista de generadores de sitios web estáticos.
 
 ---
-
-**Contribuciones**
 
 Puedes enviar un pull request para proponer una actualización, pero antes de hacerlo, por favor:
 
