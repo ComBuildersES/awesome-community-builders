@@ -19,9 +19,9 @@
    * [Páginas](#páginas)
    * [Recopilaciones](#recopilaciones)
 - [Herramientas](#herramientas)
-   * [Anunciar eventos](#anunciar-eventos)
    * [Crear badges/credenciales](#crear-badgescredenciales)
    * [Financiación](#financiación)
+   * [Gestionar eventos](#gestionar-eventos)
    * [Métricas](#métricas)
    * [Preguntas & respuestas](#preguntas-respuestas)
    * [Utilidades](#utilidades)
@@ -62,7 +62,6 @@ Calendarios y tech meetups:
 * [Calendario eventos tech de Madrid](https://madridtechtalks.com/)
 * [Calendario eventos tech de Barcelona](https://yannklein.github.io/tech-eventboard/?city=barcelona)
 * [eventgarden.io](https://eventgarden.io/) (by [Carlillo](https://x.com/carlillo))  (internacional)
-
 
 ## Documentación
 
@@ -105,15 +104,6 @@ Páginas, libros, o lecturas interesantes sobre la gestión de comunidades
 
 Para personas que dinamizan comunidades
 
-### Anunciar eventos
-
-* [Gitevents](https://github.com/gitevents/core): GitEvents core; manage your user group with GitHub (archivado)
-* [Lu.ma](https://lu.ma/): Plataforma online (freemium) para alojar eventos, invitar amigos y vender tickets. 
-* [Meetup](https://www.meetup.com): Plataforma online (de pago) para alojar eventos, invitar amigos y vender tickets.
-* [Mobilizon](https://mobilizon.fr/): Plataforma descentralizada para la organización de eventos (ej. de instancia: [LibreLabGRX Eventos](https://eventos.librelabgrx.cc/))
-* [Saraos.tech](https://saraos.tech/): Plataforma online para anunciar eventos.
-* [TOP.gal](https://top.gal/): Plantilla auto alojable para anunciar eventos de uno o varios días, con uno o varios tracks, múltiples speakers, partners, FAQ, etc
-
 ### Crear badges/credenciales
 
 * [badgeyay](https://github.com/fossasia/badgeyay): Generador de credenciales para conferencias
@@ -122,6 +112,18 @@ Para personas que dinamizan comunidades
 
 * [Open Collective](https://opencollective.com/): herramienta para financiar colectivos sin estructura legal (ej: [Madrid GUG](https://opencollective.com/madridgug))
 * [ti.to](https://ti.to/home): Herramienta para gestionar tickets
+
+### Gestionar eventos
+
+* [Eventbrite](https://www.eventbrite.com/): Crear, promocionar y gestionar eventos, ofreciendo funciones como venta de entradas, organización de eventos, procesamiento de pagos y herramientas de marketing
+* [Gitevents](https://github.com/gitevents/core): GitEvents core; manage your user group with GitHub (archivado)
+* [Koliseo](https://koliseo.com/): Plataforma para gestionar la venta de entradas, la convocatoria de ponencias y la agenda de su evento.
+* [Lu.ma](https://lu.ma/): Plataforma online (freemium) para alojar eventos, invitar amigos y vender tickets.
+* [Meetup](https://www.meetup.com): Plataforma online (de pago) para alojar eventos, invitar amigos y vender tickets.
+* [Mobilizon](https://mobilizon.fr/): Plataforma descentralizada para la organización de eventos (ej. de instancia: [LibreLabGRX Eventos](https://eventos.librelabgrx.cc/))
+* [Saraos.tech](https://saraos.tech/): Plataforma online para anunciar eventos.
+* [Sessionize](https://sessionize.com/): Plataforma para ayudar a los organizadores de eventos a gestionar eficazmente las sesiones, los ponentes y los horarios.
+* [TOP.gal](https://top.gal/): Plantilla auto alojable para anunciar eventos de uno o varios días, con uno o varios tracks, múltiples speakers, partners, FAQ, etc
 
 ### Métricas
 
