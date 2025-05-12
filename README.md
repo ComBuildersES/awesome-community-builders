@@ -12,7 +12,7 @@
 - [Calendarios](#calendarios)
   - [Conferencias](#conferencias)
   - [Tech meetups](#tech-meetups)
-  - [Todos](#todos)
+  - [Todo tipo de eventos](#todo-tipo-de-eventos)
 - [Documentación](#documentaci%C3%B3n)
   - [Guías](#gu%C3%ADas)
   - [Libros](#libros)
