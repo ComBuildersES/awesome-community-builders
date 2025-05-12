@@ -60,8 +60,8 @@ Este es un recopilatorio de distintos proyectos creados para centralizar eventos
 ### Todo tipo de eventos
 
 * [Agenda Betabeers](https://betabeers.com/event/) (sin actividad desde 2022)
-* [Calendario eventos tech de Madrid](https://madridtechtalks.com/)
 * [Calendario eventos tech de Barcelona](https://yannklein.github.io/tech-eventboard/?city=barcelona)
+* [Calendario eventos tech de Madrid](https://madridtechtalks.com/)
 * [Eventgarden.io](https://eventgarden.io/) (by [Carlillo](https://x.com/carlillo))  (internacional)
 * [Eventos.wiki](https://www.eventos.wiki) (by [Alberto Chamorro](https://github.com/achamorro-dev/eventoswiki)) (España)
 * [Saraos.tech](https://saraos.tech/): Publicador online de eventos tech.
