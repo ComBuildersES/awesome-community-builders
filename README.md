@@ -15,9 +15,7 @@
   - [Todo tipo de eventos](#todo-tipo-de-eventos)
 - [Documentación](#documentaci%C3%B3n)
   - [Guías](#gu%C3%ADas)
-  - [Libros](#libros)
-  - [Páginas](#p%C3%A1ginas)
-  - [Recopilaciones](#recopilaciones)
+  - [Otros recursos](#otros-recursos)
 - [Herramientas](#herramientas)
   - [Alojamiento y despliegue de sitios web](#alojamiento-y-despliegue-de-sitios-web)
   - [Automatización](#automatizaci%C3%B3n)
@@ -101,21 +99,24 @@ Este apartado recoge guías prácticas, libros, páginas web y recopilaciones ú
   * [GeoDevelopers](https://github.com/Geo-Developers/organization/blob/c02df833c49a2aa4fd36ea53287368c396696a8c/publishing-job-offers.md): Cómo publicar ofertas en la lista de correo.
   * [Hackathon Lovers](http://www.meetup.com/es-ES/Hackathon-Lovers/messages/77805843/): Guía para la publicación de ofertas de empleo en Hackathon Lovers.
   * [MadridJS](http://alexfernandez.github.io/2015/ofertas-salarios.html): Política oficial de la lista para enviar ofertas de correo en MadridJS.
-### Libros
+### Otros recursos
 
-* [The Art of Community](http://www.artofcommunityonline.org/): Libro sobre cómo construir y liderar comunidades tecnológicas.
-* [The Open Source Way](http://www.theopensourceway.org/wiki/Main_Page): Guía colaborativa sobre la gestión y crecimiento de comunidades de código abierto.
-* [Evaluation of FOSS communities](https://jgbarah.gitbooks.io/evaluating-foss-projects/content/community.html): Metodología para analizar comunidades de software libre.
-### Páginas
+A continuación libros, wikis, y otros recursos que recogen aprendizajes de otras personas sobre cómo liderar, mantener y hacer crecer comunidades. Ideal para quienes empiezan o buscan nuevas ideas.
 
-* [Community Leadership Knowledge base](https://web.archive.org/web/20160303133514/http://knowledge.communityleadershipforum.com/doku.php): Fue una wiki colaborativa alojada en el sitio web del Community Leadership Forum, que recopilaba recursos, buenas prácticas y experiencias sobre la gestión y liderazgo de comunidades tecnológicas.
-* [Community Management Wiki](http://communitymgt.wikia.com/wiki/Community_Management_Wiki): Plataforma colaborativa alojada en Fandom que recopila y organiza conocimientos sobre la gestión de comunidades, tanto en línea como presenciales
-* [Orbit Model](https://orbit-model.vercel.app/): Modelo para segmentar miembros de una comunidad según su compromiso e impacto, centrado en relaciones más que en conversiones.
-* [📦 Recursos para comunidades técnicas](https://www.rauljimenez.info/es/blog/resources-for-community-leaders): Recursos que recopilan experiencias sobre la gestión de comunidades técnicas, entendidas como comunidades tecnológicas.
-* [The Community Roundtable](https://communityroundtable.com/what-we-do/research/): The Community Manager Handbook, informes (State of Community Management), etc.
-### Recopilaciones
+* **Libros**:
+  * [The Art of Community](http://www.artofcommunityonline.org/): Libro sobre cómo construir y liderar comunidades tecnológicas.
+  * [The Open Source Way](http://www.theopensourceway.org/wiki/Main_Page): Guía colaborativa sobre la gestión y crecimiento de comunidades de código abierto.
+  * [Evaluation of FOSS communities](https://jgbarah.gitbooks.io/evaluating-foss-projects/content/community.html): Metodología para analizar comunidades de software libre.
 
-* [Recommended reading for community leaders](http://dangerouslyawesome.com/recommended-reading-for-community-leaders/): libros, ensayos, investigaciones académicas y videos sobre temas como construcción de comunidades, liderazgo, diseño colaborativo, coworking y motivación
+* **Webs**:
+  * [Community Leadership Knowledge base](https://web.archive.org/web/20160303133514/http://knowledge.communityleadershipforum.com/doku.php): Fue una wiki colaborativa alojada en el sitio web del Community Leadership Forum, que recopilaba recursos, buenas prácticas y experiencias sobre la gestión y liderazgo de comunidades tecnológicas.
+  * [Community Management Wiki](http://communitymgt.wikia.com/wiki/Community_Management_Wiki): Plataforma colaborativa alojada en Fandom que recopila y organiza conocimientos sobre la gestión de comunidades, tanto en línea como presenciales
+  * [Orbit Model](https://orbit-model.vercel.app/): Modelo para segmentar miembros de una comunidad según su compromiso e impacto, centrado en relaciones más que en conversiones.
+  * [📦 Recursos para comunidades técnicas](https://www.rauljimenez.info/es/blog/resources-for-community-leaders): Recursos que recopilan experiencias sobre la gestión de comunidades técnicas, entendidas como comunidades tecnológicas.
+  * [The Community Roundtable](https://communityroundtable.com/what-we-do/research/): The Community Manager Handbook, informes (State of Community Management), etc.
+
+* **Otras recopilaciones**:
+  * [Recommended reading for community leaders](http://dangerouslyawesome.com/recommended-reading-for-community-leaders/): libros, ensayos, investigaciones académicas y videos sobre temas como construcción de comunidades, liderazgo, diseño colaborativo, coworking y motivación
 ## Herramientas
 
 Selección de herramientas que pueden facilitar muchas de las tareas habituales en la gestión de comunidades: desde alojar una web o automatizar procesos, hasta coordinar equipos o facilitar el networking en eventos. La mayoría ofrecen una son gratuitas o de código abierto.
@@ -136,17 +137,19 @@ Selección de herramientas que pueden facilitar muchas de las tareas habituales 
   * [N8N](https://n8n.io/): Herramienta de automatización de flujos de trabajo de código abierto, autohospedable y altamente personalizable. (Open source)
 ### Centralizar enlaces
 
-* [About.me](https://about.me/): Crea una página personal simple con biografía, enlaces y contacto. (Freemium)
-* [Bio.link](https://bio.link/): Plataforma para centralizar enlaces con personalización visual y estadísticas básicas. (Freemium)
-* [Carrd](https://carrd.co/): Herramienta para crear páginas personales o de proyectos en una sola página, incluyendo perfiles con enlaces múltiples. (Freemium)
-* [Link.Bio](https://lnk.bio/): Alternativa ligera y simple a Linktree, con editor visual y estadísticas básicas. (Freemium)
-* [Linkr.com](https://linkr.bio/): Página de enlaces personalizable, con estadísticas y múltiples bloques para contenido. (Freemium)
-* [LinkStack](https://linkstack.org/): Alternativa open source a Linktree que permite crear páginas de enlaces personalizadas y autohospedadas. (Open source)
-* [LittleLink](https://github.com/sethcottle/littlelink): Plantilla HTML sencilla para crear tu propia página de enlaces estilo Linktree. (Open source)
-* [Linktree](https://linktr.ee/): Plataforma para crear una página con múltiples enlaces desde un solo perfil, muy usada en redes sociales. (Freemium)
-* [Solo.to](https://solo.to/): Página de perfil con enlaces y redes sociales, orientada a creadores y profesionales. (Freemium)
-* [Taplink](https://taplink.at/en/): Página de enlaces personalizable con opciones para añadir formularios, mensajería y pagos. (Freemium)
-* [MyURLs.bio](https://myurls.bio/): Plataforma para gestionar un perfil público con enlaces, redes y contenido adicional. (Freemium)
+Los centralizadores de enlaces son herramientas muy prácticas para incluir en los perfiles de redes sociales como referencia cuando no se tiene una web propia. Útil para compartir todos los recursos relevantes de una comunidad: enlaces a redes sociales, otros canales de comunicación, formularios de inscripción, charlas grabadas, eventos. etc.
+
+* [About.me](https://about.me/) (Freemium)
+* [Bio.link](https://bio.link/) (Freemium)
+* [Carrd](https://carrd.co/) (Freemium)
+* [Link.Bio](https://lnk.bio/):(Freemium)
+* [Linkr.com](https://linkr.bio/) (Freemium)
+* [LinkStack](https://linkstack.org/) (Open source y Freemium)
+* [LittleLink](https://github.com/sethcottle/littlelink): (Open source)
+* [Linktree](https://linktr.ee/): (Freemium)
+* [Solo.to](https://solo.to/): (Freemium)
+* [Taplink](https://taplink.at/en/): (Freemium)
+* [MyURLs.bio](https://myurls.bio/): (Freemium)
 ### Compartir y colaborar
 
 * **Compartir ficheros**:
@@ -199,6 +202,8 @@ Selección de herramientas que pueden facilitar muchas de las tareas habituales 
   * [X](https://x.com/home): Red social anteriormente conocida como Twitter, orientada a la publicación de mensajes cortos, actualidad, debates y difusión rápida de contenidos.
 ### Diseño
 
+Herramientas para crear material gráfico útil en la comunicación de tu comunidad: desde banners para redes sociales hasta presentaciones o carteles de eventos.
+
 * **Crear material visual**:
   * [Canva](https://www.canva.com/en_gb/): Aplicación online para crear diseños gráficos fácilmente, con plantillas para redes sociales, presentaciones y más. (Freemium)
 
@@ -219,7 +224,7 @@ Selección de herramientas que pueden facilitar muchas de las tareas habituales 
 * [Patreon](https://www.patreon.com/): Plataforma para monetizar contenido a través de suscripciones, permitiendo ofrecer recompensas y acceso exclusivo a los mecenas. 
 ### Gestión de eventos
 
-* **Gestión de sesiones y ponentes**
+* **Gestión de sesiones y ponentes (C4P y agenda)** 
   * [Frab](https://github.com/frab/frab): Sistema web para la planificación y gestión de conferencias, con gestión de propuestas, ponentes y creación de agendas. (Open source)
   * [OpenConferenceWare](https://github.com/osbridge/openconferenceware): Aplicación web para recibir propuestas, crear agendas y gestionar contenido de conferencias. (Open source)
   * [OSEM](https://github.com/openSUSE/osem): Una herramienta de gestión de eventos adaptada a las conferencias de software libre y de código abierto. (Open source)
@@ -227,7 +232,7 @@ Selección de herramientas que pueden facilitar muchas de las tareas habituales 
   * [Symposion](https://github.com/pinax/symposion): Conjunto de aplicaciones Django para CFP, programación y gestión de eventos. (Open source)
   * [Wafer](https://github.com/CTPUG/wafer): Plataforma basada en Django usada por DebConf, con funciones para CFP, programación y registro. (Open source)
 
-* **Participación e interacción en eventos**
+* **Facilitar participación del público**
   * [ClassQuiz](https://github.com/mawoka-myblock/ClassQuiz): Aplicación de concursos como Kahoot, pero de código abierto.
   * [ProxyHands](https://proxyhands.com/): App que permite preguntar en eventos a todas las personas. Con y sin discapacidad (motora, ceguera, dificultad en el habla, etc).
   * [Venue](https://github.com/sirikon/venue): Aplicación web utilizada para comentarios y preguntas sobre BilboStack.
@@ -261,10 +266,12 @@ Selección de herramientas que pueden facilitar muchas de las tareas habituales 
 * [Trello](https://trello.com/): Aplicación de gestión visual de tareas basada en tableros Kanban, ideal para equipos pequeños y proyectos personales. (Freemium)
 ### Métricas
 
+Estas métricas pueden ayudar a justificar el impacto de una comunidad (por ejemplo, para sponsors o entidades colaboradoras).
+
 * [MeetupFetcher](https://github.com/ntkog/Meetup-fetcher): Herramienta para extraer datos de la API de Meetup
 * [Metrics Grimoire](http://metricsgrimoire.github.io/): Diversas herramientas libres para medir la actividad en proyectos de software libre
    * Hay una herramienta para extraer info de Meetup: [Eventizer](https://github.com/MetricsGrimoire/eventizer)
-* [Cauldron]([http://biterg.io](https://gitlab.com/cauldronio)): Mmétricas de actividad en GitHub
+* [Cauldron]([http://biterg.io](https://gitlab.com/cauldronio)): Métricas de actividad en GitHub.
 ### Vídeo
 
 * **Alojamiento de vídeos**
