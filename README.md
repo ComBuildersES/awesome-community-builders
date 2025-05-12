@@ -62,7 +62,6 @@ Este es un recopilatorio de distintos proyectos creados para centralizar eventos
 * [Calendario eventos tech de Madrid](https://madridtechtalks.com/)
 * [Eventgarden.io](https://eventgarden.io/) (by [Carlillo](https://x.com/carlillo))  (internacional)
 * [Eventos.wiki](https://www.eventos.wiki) (by [Alberto Chamorro](https://github.com/achamorro-dev/eventoswiki)) (España)
-* [Saraos.tech](https://saraos.tech/): Publicador online de eventos tech.
 ## Documentación
 
 Este apartado recoge guías prácticas, libros, páginas web y recopilaciones útiles para quienes dinamizan comunidades tecnológicas. Ya sea para montar un grupo local, facilitar eventos, promover la inclusión o estructurar la comunicación, aquí encontrarás recursos de referencia elaborados por comunidades reales, con aprendizajes que puedes adaptar a tu propio contexto.
@@ -252,11 +251,13 @@ Herramientas para crear material gráfico útil en la comunicación de tu comuni
 
 * **Venta de entradas y gestión integral de eventos**:
   * [Eventbrite](https://www.eventbrite.com/): Crear, promocionar y gestionar eventos, ofreciendo funciones como venta de entradas, organización de eventos, procesamiento de pagos y herramientas de marketing.
+  * [Guild](https://guild.host/guilds): Plataforma para organizar una comunidad tecnológica y descubrir otras.
   * [Koliseo](https://koliseo.com/): Plataforma para gestionar la venta de entradas, la convocatoria de ponencias y la agenda de su evento.
   * [Lu.ma](https://lu.ma/): Plataforma online (freemium) para alojar eventos, invitar amigos y vender tickets.
   * [Meetup](https://www.meetup.com): Plataforma online (de pago) para alojar eventos, invitar amigos y vender tickets.
   * [Mobilizon](https://mobilizon.fr/): Plataforma descentralizada para la organización de eventos (ej. de instancia: [LibreLabGRX Eventos](https://eventos.librelabgrx.cc/)).
   * [Pretix](https://github.com/pretix/pretix): Aplicación de venta de entradas para conferencias, festivales, conciertos, eventos tecnológicos, espectáculos, exposiciones, talleres, barcamps, etc.
+  * [Saraos.tech](https://saraos.tech/): Plataforma para organizar una comunidad tecnológica y descubrir otras.
   * [ti.to](https://ti.to/home): Herramienta para gestionar tickets.
 ### Gestión de tareas
 
