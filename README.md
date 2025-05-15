@@ -318,3 +318,17 @@ Puedes enviar un pull request para proponer una actualización, pero antes de ha
 * [Revisa la guía de contribución para este repositorio.](CONTRIBUTING.md)
 * [Echa un vistazo a los issues registradas anteriormente.](https://github.com/ComBuildersES/awesome-community-builders/issues)
 
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+Las instrucciones para añadirte o añadir emojis de contribución a tu nombre están [en este *issue*](https://github.com/ComBuildersES/communities-directory/issues/22). 
+
