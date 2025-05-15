@@ -323,7 +323,13 @@ Puedes enviar un pull request para proponer una actualización, pero antes de ha
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://jsmanrique.es"><img src="https://avatars.githubusercontent.com/u/1178305?v=4?s=100" width="100px;" alt="Manrique Lopez"/><br /><sub><b>Manrique Lopez</b></sub></a><br /><a href="#data-jsmanrique" title="Data">🔣</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
