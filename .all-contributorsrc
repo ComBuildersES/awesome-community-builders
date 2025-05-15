@@ -9,15 +9,23 @@
   "contributorsPerLine": 7,
   "contributors": [
     {
+      "login": "jsmanrique",
+      "name": "Manrique Lopez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1178305?v=4",
+      "profile": "http://jsmanrique.es",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
       "login": "hhkaos",
       "name": "Raul Jimenez Ortega",
       "avatar_url": "https://avatars.githubusercontent.com/u/826965?v=4",
       "profile": "https://www.rauljimenez.info",
       "contributions": [
-        "projectManagement",
-        "data",
-        "doc"
-      ]
+      "projectManagement",
+      "data",
+      "doc"
     }
   ]
 }
