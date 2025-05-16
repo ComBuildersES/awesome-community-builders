@@ -104,8 +104,10 @@ A continuación libros, wikis, y otros recursos que recogen aprendizajes de otra
 
 * **Libros**:
   * [The Art of Community](http://www.artofcommunityonline.org/): Libro sobre cómo construir y liderar comunidades tecnológicas.
+  * [The Business Value of Developer Relations](https://www.persea-consulting.com/book): Consejos prácticos y experiencias de grandes empresas de cómo sacarle partido a la figura de DevRel y creando conexiones la comunidad técnica sin perder de vista los objetivos de negocio.
   * [The Open Source Way](http://www.theopensourceway.org/wiki/Main_Page): Guía colaborativa sobre la gestión y crecimiento de comunidades de código abierto.
   * [Evaluation of FOSS communities](https://jgbarah.gitbooks.io/evaluating-foss-projects/content/community.html): Metodología para analizar comunidades de software libre.
+  * [DevRel Puzzle](https://www.amazon.es/DevRel-Puzzle-Esos-detalles-cuentan/dp/B0BW2KJMTQ): Perspectiva europea y multidisciplinar sobre Developer Relations (DevRel), abordando enfoques poco explorados para diseñar estrategias eficaces que conecten con personas que desarrollan software.
 
 * **Webs**:
   * [Community Leadership Knowledge base](https://web.archive.org/web/20160303133514/http://knowledge.communityleadershipforum.com/doku.php): Fue una wiki colaborativa alojada en el sitio web del Community Leadership Forum, que recopilaba recursos, buenas prácticas y experiencias sobre la gestión y liderazgo de comunidades tecnológicas.
@@ -269,13 +271,14 @@ Herramientas para crear material gráfico útil en la comunicación de tu comuni
 
 Estas métricas pueden ayudar a justificar el impacto de una comunidad (por ejemplo, para sponsors o entidades colaboradoras).
 
+* [Cauldron](https://gitlab.com/cauldronio): Métricas de actividad en GitHub.
+* [GrimoireLab](https://chaoss.github.io/grimoirelab/): Diversas herramientas libres para medir la actividad en proyectos de software libre
 * [MeetupFetcher](https://github.com/ntkog/Meetup-fetcher): Herramienta para extraer datos de la API de Meetup
-* [Metrics Grimoire](http://metricsgrimoire.github.io/): Diversas herramientas libres para medir la actividad en proyectos de software libre
-   * Hay una herramienta para extraer info de Meetup: [Eventizer](https://github.com/MetricsGrimoire/eventizer)
-* [Cauldron]([http://biterg.io](https://gitlab.com/cauldronio)): Métricas de actividad en GitHub.
+* [OSS Insight](https://ossinsight.io/): Métricas de actividad en GitHub.
 ### Vídeo
 
 * **Alojamiento de vídeos**
+  * [PeerTube](https://joinpeertube.org/): Aplicación web de software libre, descentralizada, federada y que usa la tecnología peer-to-peer para reducir la carga de los servidores individuales al visualizar videos.
   * [YouTube](https://www.youtube.com/): Plataforma gratuita de alojamiento y distribución de vídeos, ideal para llegar a audiencias amplias y monetizar contenido. (Gratuita)
   * [Vimeo](https://vimeo.com/): Plataforma de vídeo con enfoque profesional, usada para alojar contenido con mayor control sobre privacidad, calidad y personalización. (Freemium)
 
