@@ -38,6 +38,7 @@
 ## Calendarios
 
 Este es un recopilatorio de distintos proyectos creados para centralizar eventos de diversa temática y alcance geográfico. Contar con estos calendarios resulta especialmente útil al planificar nuevas actividades, ya que permite evitar solapamientos con otros eventos que podrían reducir la asistencia o afectar a la participación.
+
 ### Conferencias
 
 * [Conference Tracker](https://milendyankov.com/ConferenceTracker/#/) (2019-2024)
@@ -45,6 +46,7 @@ Este es un recopilatorio de distintos proyectos creados para centralizar eventos
 * [Eventos para developers, startuperos y technólogos](https://docs.google.com/spreadsheets/d/1VJRVTa1xm7-VlshZY5TD76iHjw0D7qik3b_aIneBl2A/edit?usp=sharing) (Spreadsheet) (mantenido hasta 2022)
 * [Otros buscadores (e.j. call for papers)](https://github.com/devrelcollective/awesome-devrel#cfps-and-speaking-resources)
 * [Spain calendar of Events](https://sudden-larch-de8.notion.site/1e953627e992471988f9654235413969?v=820a3b3fbce44b2798ca838b5250b80a) (mantenido hasta 2023)
+
 ### Tech meetups
 
 * Calendarios por zonas geográficas:
@@ -55,6 +57,8 @@ Este es un recopilatorio de distintos proyectos creados para centralizar eventos
   * [Calendario de comunidades técnicas de Sevilla](https://svqtech.com/calendario/)
   * [Calendario de comunidades técnicas de Vigo](https://vigotech.org/)
 * Calendario de comunidades en España: [Agregador de calendarios (by Jesús Cea)](http://calendario.es.python.org/fusion.ics)
+* [Codemotion meetups](https://events.codemotion.com/meetups/?country=Spain)
+  
 ### Todo tipo de eventos
 
 * [Agenda Betabeers](https://betabeers.com/event/) (sin actividad desde 2022)
@@ -62,9 +66,11 @@ Este es un recopilatorio de distintos proyectos creados para centralizar eventos
 * [Calendario eventos tech de Madrid](https://madridtechtalks.com/)
 * [Eventgarden.io](https://eventgarden.io/) (by [Carlillo](https://x.com/carlillo))  (internacional)
 * [Eventos.wiki](https://www.eventos.wiki) (by [Alberto Chamorro](https://github.com/achamorro-dev/eventoswiki)) (España)
+
 ## Documentación
 
 Este apartado recoge guías prácticas, libros, páginas web y recopilaciones útiles para quienes dinamizan comunidades tecnológicas. Ya sea para montar un grupo local, facilitar eventos, promover la inclusión o estructurar la comunicación, aquí encontrarás recursos de referencia elaborados por comunidades reales, con aprendizajes que puedes adaptar a tu propio contexto.
+
 ### Guías
 
 * **Creación de grupos locales**:
@@ -98,6 +104,7 @@ Este apartado recoge guías prácticas, libros, páginas web y recopilaciones ú
   * [GeoDevelopers](https://github.com/Geo-Developers/organization/blob/c02df833c49a2aa4fd36ea53287368c396696a8c/publishing-job-offers.md): Cómo publicar ofertas en la lista de correo.
   * [Hackathon Lovers](http://www.meetup.com/es-ES/Hackathon-Lovers/messages/77805843/): Guía para la publicación de ofertas de empleo en Hackathon Lovers.
   * [MadridJS](http://alexfernandez.github.io/2015/ofertas-salarios.html): Política oficial de la lista para enviar ofertas de correo en MadridJS.
+
 ### Otros recursos
 
 A continuación libros, wikis, y otros recursos que recogen aprendizajes de otras personas sobre cómo liderar, mantener y hacer crecer comunidades. Ideal para quienes empiezan o buscan nuevas ideas.
@@ -131,11 +138,13 @@ Selección de herramientas que pueden facilitar muchas de las tareas habituales 
 * [Render](https://render.com/): Hosting estático gratuito con HTTPS, despliegue desde Git, soporte para servicios backend también.
 * [Surge](https://surge.sh/): Despliegue estático súper simple desde la terminal, sin necesidad de cuenta GitHub.
 * [Vercel](https://vercel.com/): Integración con Git, despliegues instantáneos, soporte para frameworks como Next.js, Astro, SvelteKit.
+
 ### Automatización
 
   * [Zapier](https://zapier.com/app/home): Plataforma para automatizar flujos de trabajo conectando aplicaciones sin necesidad de programar. (Freemium)
   * [Make](https://www.make.com/en): Alternativa visual a Zapier para automatizar procesos entre múltiples herramientas. (Freemium)
   * [N8N](https://n8n.io/): Herramienta de automatización de flujos de trabajo de código abierto, autohospedable y altamente personalizable. (Open source)
+
 ### Centralizar enlaces
 
 Los centralizadores de enlaces son herramientas muy prácticas para incluir en los perfiles de redes sociales como referencia cuando no se tiene una web propia. Útil para compartir todos los recursos relevantes de una comunidad: enlaces a redes sociales, otros canales de comunicación, formularios de inscripción, charlas grabadas, eventos. etc.
@@ -151,6 +160,7 @@ Los centralizadores de enlaces son herramientas muy prácticas para incluir en l
 * [Solo.to](https://solo.to/): (Freemium)
 * [Taplink](https://taplink.at/en/): (Freemium)
 * [MyURLs.bio](https://myurls.bio/): (Freemium)
+
 ### Compartir y colaborar
 
 * **Compartir ficheros**:
@@ -261,12 +271,14 @@ Herramientas para crear material gráfico útil en la comunicación de tu comuni
   * [Pretix](https://github.com/pretix/pretix): Aplicación de venta de entradas para conferencias, festivales, conciertos, eventos tecnológicos, espectáculos, exposiciones, talleres, barcamps, etc.
   * [Saraos.tech](https://saraos.tech/): Plataforma para organizar una comunidad tecnológica y descubrir otras.
   * [ti.to](https://ti.to/home): Herramienta para gestionar tickets.
+
 ### Gestión de tareas
 
 * [Airtable](https://www.airtable.com/): Plataforma que combina hojas de cálculo con bases de datos para gestionar proyectos, tareas y contenidos de forma visual. (Freemium)
 * [Asana](https://asana.com/): Herramienta de gestión de proyectos enfocada en equipos, con tableros, cronogramas, automatizaciones y seguimiento de tareas. (Freemium)
 * [GitHub](https://github.com/): Plataforma de desarrollo colaborativo que incluye herramientas como Issues, Projects y Actions para gestionar tareas y flujos de trabajo. (Freemium)
 * [Trello](https://trello.com/): Aplicación de gestión visual de tareas basada en tableros Kanban, ideal para equipos pequeños y proyectos personales. (Freemium)
+
 ### Métricas
 
 Estas métricas pueden ayudar a justificar el impacto de una comunidad (por ejemplo, para sponsors o entidades colaboradoras).
@@ -275,6 +287,7 @@ Estas métricas pueden ayudar a justificar el impacto de una comunidad (por ejem
 * [GrimoireLab](https://chaoss.github.io/grimoirelab/): Diversas herramientas libres para medir la actividad en proyectos de software libre
 * [MeetupFetcher](https://github.com/ntkog/Meetup-fetcher): Herramienta para extraer datos de la API de Meetup
 * [OSS Insight](https://ossinsight.io/): Métricas de actividad en GitHub.
+
 ### Vídeo
 
 * **Alojamiento de vídeos**
@@ -308,6 +321,7 @@ Estas métricas pueden ayudar a justificar el impacto de una comunidad (por ejem
   * [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software): Herramienta de comunicación para equipos con videollamadas, chat y colaboración en documentos. (Freemium)
   * [Whereby](https://whereby.com/): Plataforma sencilla para videollamadas sin instalaciones, basada en navegador, ideal para pequeñas reuniones. (Freemium)
   * [Zoom](https://www.zoom.com/): Plataforma líder en videollamadas y webinars, con funciones avanzadas para eventos, breakout rooms y grabaciones. (Freemium)
+
 ## Otras awesome relacionadas
 
 * [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel): Impresionantes recursos de relaciones con los desarrolladores seleccionados por el Colectivo DevRel.
