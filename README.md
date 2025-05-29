@@ -176,7 +176,7 @@ Los centralizadores de enlaces son herramientas muy prácticas para incluir en l
 
 * **Correo electrónico**:
   * [Google Groups](https://groups.google.com/): Herramienta para crear listas de correo y foros de discusión en línea, con integración en el ecosistema Google.
-  * [GNU Mailmain](https://list.org/): Sistema de listas de correo de código abierto para gestionar newsletters, listas de usuarios y grupos de discusión. (Open source)
+  * [GNU Mailman](https://list.org/): Sistema de listas de correo de código abierto para gestionar newsletters, listas de usuarios y grupos de discusión. (Open source)
   * [Substack](https://substack.com/about): Plataforma para crear y distribuir boletines por correo, monetizar contenido y construir una audiencia de suscriptores.
 
 * **Encuestas**:
