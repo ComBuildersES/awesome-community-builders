@@ -299,6 +299,7 @@ Estas métricas pueden ayudar a justificar el impacto de una comunidad (por ejem
   * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve): Potente software de edición y corrección de color profesional, ampliamente utilizado en cine y televisión. (Freemium)
   * [Kdenlive](https://kdenlive.org/): Editor de vídeo no lineal de código abierto, con múltiples pistas y funciones avanzadas para usuarios técnicos. (Open source)
   * [OpusClip](https://opus.pro/): Herramienta online (freemium) para recortar vídeos y crear cortos virales.
+  * [Shotcut](https://www.shotcut.org/): Editor de video para Windows/MacOS/Linux de código abierto, con múltiples pistas y funciones avanzadas para usuarios técnicos. (Open source) .
 
 * **Herramientas para emitir**:
   * [OBS Studio](https://obsproject.com/): Muy popular, super potente, requiere más configuración. (Open source)
