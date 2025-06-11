@@ -288,6 +288,7 @@ Estas métricas pueden ayudar a justificar el impacto de una comunidad (por ejem
 * [GrimoireLab](https://chaoss.github.io/grimoirelab/): Diversas herramientas libres para medir la actividad en proyectos de software libre
 * [MeetupFetcher](https://github.com/ntkog/Meetup-fetcher): Herramienta para extraer datos de la API de Meetup
 * [OSS Insight](https://ossinsight.io/): Métricas de actividad en GitHub.
+* [Crowd.dev (ahora LFX Community Data Platform](https://github.com/CrowdDotDev/crowd.dev): Métricas de comunidad de proyectos open source
 
 ### Vídeo
 
