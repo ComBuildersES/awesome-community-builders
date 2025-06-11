@@ -349,6 +349,7 @@ Puedes enviar un pull request para proponer una actualización, pero antes de ha
       <td align="center" valign="top" width="14.28%"><a href="https://www.rauljimenez.info"><img src="https://avatars.githubusercontent.com/u/826965?v=4?s=100" width="100px;" alt="Raul Jimenez Ortega"/><br /><sub><b>Raul Jimenez Ortega</b></sub></a><br /><a href="#projectManagement-hhkaos" title="Project Management">📆</a> <a href="#data-hhkaos" title="Data">🔣</a> <a href="#doc-hhkaos" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.draxus.org/"><img src="https://avatars.githubusercontent.com/u/2436?v=4?s=100" width="100px;" alt="Manuel Martín"/><br /><sub><b>Manuel Martín</b></sub></a><br /><a href="#data-draxus" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://gdglarioja.blogspot.com.es/"><img src="https://avatars.githubusercontent.com/u/4250161?v=4?s=100" width="100px;" alt="Mario"/><br /><sub><b>Mario</b></sub></a><br /><a href="#data-mario-ezquerro" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://jonthebeach.com"><img src="https://avatars.githubusercontent.com/u/12547113?v=4?s=100" width="100px;" alt="Luis Sánchez de Ybargüen"/><br /><sub><b>Luis Sánchez de Ybargüen</b></sub></a><br /><a href="#data-lsybarguen" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
