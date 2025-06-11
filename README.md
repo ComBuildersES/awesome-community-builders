@@ -237,6 +237,7 @@ Herramientas para crear material gráfico útil en la comunicación de tu comuni
 
 * **Gestión de sesiones y ponentes (C4P y agenda)** 
   * [Frab](https://github.com/frab/frab): Sistema web para la planificación y gestión de conferencias, con gestión de propuestas, ponentes y creación de agendas. (Open source)
+  * [Ticket Tailor](http://tickettailor.com/): Plataforma online para crear, gestionar y vender entradas para todo tipo de eventos. (Freemium)
   * [OpenConferenceWare](https://github.com/osbridge/openconferenceware): Aplicación web para recibir propuestas, crear agendas y gestionar contenido de conferencias. (Open source)
   * [OSEM](https://github.com/openSUSE/osem): Una herramienta de gestión de eventos adaptada a las conferencias de software libre y de código abierto. (Open source)
   * [Sessionize](https://sessionize.com/): Plataforma para ayudar a los organizadores de eventos a gestionar eficazmente las sesiones, los ponentes y los horarios. (Freemium)
