@@ -285,6 +285,7 @@ Herramientas para crear material gráfico útil en la comunicación de tu comuni
 Estas métricas pueden ayudar a justificar el impacto de una comunidad (por ejemplo, para sponsors o entidades colaboradoras).
 
 * [Cauldron](https://gitlab.com/cauldronio): Métricas de actividad en GitHub.
+* [Crowd.dev (ahora LFX Community Data Platform](https://github.com/CrowdDotDev/crowd.dev): Métricas de comunidad de proyectos open source.
 * [GrimoireLab](https://chaoss.github.io/grimoirelab/): Diversas herramientas libres para medir la actividad en proyectos de software libre
 * [MeetupFetcher](https://github.com/ntkog/Meetup-fetcher): Herramienta para extraer datos de la API de Meetup
 * [OSS Insight](https://ossinsight.io/): Métricas de actividad en GitHub.
