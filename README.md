@@ -43,6 +43,7 @@ Este es un recopilatorio de distintos proyectos creados para centralizar eventos
 
 * [Conference Tracker](https://milendyankov.com/ConferenceTracker/#/) (2019-2024)
 * [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda#readme) (2017-2024)
+* [Developers Events](https://github.com/scraly/developers-conferences-agenda) (2017-2025)
 * [Eventos para developers, startuperos y technólogos](https://docs.google.com/spreadsheets/d/1VJRVTa1xm7-VlshZY5TD76iHjw0D7qik3b_aIneBl2A/edit?usp=sharing) (Spreadsheet) (mantenido hasta 2022)
 * [Otros buscadores (e.j. call for papers)](https://github.com/devrelcollective/awesome-devrel#cfps-and-speaking-resources)
 * [Spain calendar of Events](https://sudden-larch-de8.notion.site/1e953627e992471988f9654235413969?v=820a3b3fbce44b2798ca838b5250b80a) (mantenido hasta 2023)
