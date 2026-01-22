@@ -45,7 +45,7 @@ Este es un recopilatorio de distintos proyectos creados para centralizar eventos
 
 * [Conference Tracker](https://milendyankov.com/ConferenceTracker/#/) (2019-2024)
 * [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda#readme) (2017-2024)
-* [Developers Events](https://github.com/scraly/developers-conferences-agenda) (2017-2025)
+* [Developers Events](https://github.com/scraly/developers-conferences-agenda) ([developers.events](https://developers.events/)) (2017-2025)
 * [Eventos para developers, startuperos y technólogos](https://docs.google.com/spreadsheets/d/1VJRVTa1xm7-VlshZY5TD76iHjw0D7qik3b_aIneBl2A/edit?usp=sharing) (Spreadsheet) (mantenido hasta 2022)
 * [Otros buscadores (e.j. call for papers)](https://github.com/devrelcollective/awesome-devrel#cfps-and-speaking-resources)
 * [Spain calendar of Events](https://sudden-larch-de8.notion.site/1e953627e992471988f9654235413969?v=820a3b3fbce44b2798ca838b5250b80a) (mantenido hasta 2023)
@@ -238,6 +238,8 @@ Herramientas para crear material gráfico útil en la comunicación de tu comuni
 * [Open Collective](https://opencollective.com/): Herramienta para financiar colectivos sin estructura legal (ej: [Madrid GUG](https://opencollective.com/madridgug))
 * [Patreon](https://www.patreon.com/): Plataforma para monetizar contenido a través de suscripciones, permitiendo ofrecer recompensas y acceso exclusivo a los mecenas. 
 ### Gestión de eventos
+
+> **Relacionado**: [Comparativa de plataforma de gestión de comunidades](https://docs.google.com/spreadsheets/d/1HxELbWLW7j3EewzZuys0sm2fbLxbjr7xkHx-RY-rIuc/edit?gid=0#gid=0)
 
 * **Gestión de sesiones y ponentes (C4P y agenda)** 
   * [Frab](https://github.com/frab/frab): Sistema web para la planificación y gestión de conferencias, con gestión de propuestas, ponentes y creación de agendas. (Open source)
