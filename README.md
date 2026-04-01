@@ -265,8 +265,12 @@ Herramientas para crear material gráfico útil en la comunicación de tu comuni
   - [TOP.gal](https://top.gal/): Plantilla autoalojable para eventos multitrack, con diseño profesional.
   - [vercelvirtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit): Open source demo que Next.js developers pueden clonar, desplegar y personalizar completamente para eventos.
 
+* **Gamificación: Insignias, medallas, etc**
+  * [POAP](https://poap.xyz/): Herramienta para crear recuerdos en forma de recuerdos digitales (badges/insignias) para asistentes a eventos (POAP es la abreviatura de «Proof of Attendance Protocol»).
+  * [badges.galicia.dev]: Sistema de creación de badges usando por Sysarmy Galicia, Python Coruña, Coruña WTF, Lareira Conf ([+info](https://github.com/ComBuildersES/awesome-community-builders/issues/27))
+
 * **Otras utilidades**: 
-  * [badgeyay](https://github.com/fossasia/badgeyay): Generador de credenciales para conferencias. 
+  * [badgeyay](https://github.com/fossasia/badgeyay): Generador de credenciales para conferencias.
   * [Timezone converter spreadsheet](https://docs.google.com/spreadsheets/d/1aQN0N2ugarrlxZhq8rdFMKo6qloE9cuOecDGqD3cPfQ/edit?usp=sharing): Genera una tabla con la hora de un evento en diferentes franjas horarias (especialmente útil para eventos online).
 
 * **Venta de entradas y gestión integral de eventos**:
