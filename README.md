@@ -250,6 +250,7 @@ Herramientas para crear material gráfico útil en la comunicación de tu comuni
   * [Sessionize](https://sessionize.com/): Plataforma para ayudar a los organizadores de eventos a gestionar eficazmente las sesiones, los ponentes y los horarios. (Freemium)
   * [Symposion](https://github.com/pinax/symposion): Conjunto de aplicaciones Django para CFP, programación y gestión de eventos. (Open source)
   * [Wafer](https://github.com/CTPUG/wafer): Plataforma basada en Django usada por DebConf, con funciones para CFP, programación y registro. (Open source)
+  * [confeti.app](https://www.confeti.app/): Confeti aims to provide essential features for event management at reasonable prices
 
 * **Facilitar participación del público**
   * [ClassQuiz](https://github.com/mawoka-myblock/ClassQuiz): Aplicación de concursos como Kahoot, pero de código abierto.
