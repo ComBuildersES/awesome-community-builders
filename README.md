@@ -142,6 +142,7 @@ Selección de herramientas que pueden facilitar muchas de las tareas habituales 
 * [Render](https://render.com/): Hosting estático gratuito con HTTPS, despliegue desde Git, soporte para servicios backend también.
 * [Surge](https://surge.sh/): Despliegue estático súper simple desde la terminal, sin necesidad de cuenta GitHub.
 * [Vercel](https://vercel.com/): Integración con Git, despliegues instantáneos, soporte para frameworks como Next.js, Astro, SvelteKit.
+* [Codeberg](https://codeberg.org/): Servicio open source que prorporciona: Git hosting, páginas estáticas y una instancia de weblate..
 
 ### Automatización
 
@@ -171,6 +172,7 @@ Los centralizadores de enlaces son herramientas muy prácticas para incluir en l
   * [Google Drive](https://workspace.google.com/products/drive/): Almacenamiento en la nube, colaboración en documentos, hojas de cálculo, presentaciones, formularios, etc.
   * [Dropbox](https://www.dropbox.com/): Almacenamiento y sincronización de archivos. Integra Paper para colaborar en documentos.
   * [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage): Alternativa de Microsoft. Bien integrada con Word, Excel, Teams, etc.
+  * [Disroot](https://disroot.org/): Alternativa open source a drive, dropbox, etc. Entre uno de sus servicios proporciona 1Tb de espacio cloud.
 
 * **Wikis y documentación colaborativa:** 
   * [Notion](https://www.notion.com/): Plataforma todo en uno para tomar notas, crear bases de conocimiento, gestionar tareas y colaborar en documentos. (Freemium)
@@ -182,6 +184,7 @@ Los centralizadores de enlaces son herramientas muy prácticas para incluir en l
   * [Google Groups](https://groups.google.com/): Herramienta para crear listas de correo y foros de discusión en línea, con integración en el ecosistema Google.
   * [GNU Mailman](https://list.org/): Sistema de listas de correo de código abierto para gestionar newsletters, listas de usuarios y grupos de discusión. (Open source)
   * [Substack](https://substack.com/about): Plataforma para crear y distribuir boletines por correo, monetizar contenido y construir una audiencia de suscriptores.
+  * [Disroot](https://disroot.org/): Alternativa open source que proporciona correo.
 
 * **Encuestas**:
   * [Google Forms](https://workspace.google.com/products/forms/): Herramienta gratuita de Google para crear formularios y encuestas online con respuestas en tiempo real. (Freemium)
@@ -202,6 +205,8 @@ Los centralizadores de enlaces son herramientas muy prácticas para incluir en l
   * [Telegram Groups](https://telegram.org/tour/groups): Grupos de chat con alta capacidad de usuarios, bots, y opciones avanzadas de moderación y comunicación en tiempo real.
   * [WhatsApp Communities](https://faq.whatsapp.com/495856382464992): Funcionalidad que agrupa varios chats en una comunidad con temas organizados, útil para coordinación entre múltiples grupos.
   * [WhatsApp Groups](https://www.whatsapp.com/groups): Grupos de mensajería para comunicación directa entre miembros, populares por su uso generalizado y facilidad de acceso.
+  * [Disroot](https://disroot.org/): Alternativa open source a drive, dropbox, etc. Entre uno de sus servicios proporciona 1Tb de espacio cloud.
+    
 
 * **Programación de publicaciones en redes sociales**:
   * [Buffer](https://buffer.com/): Herramienta para planificar, programar y analizar publicaciones en redes sociales desde una sola plataforma. (Freemium)
