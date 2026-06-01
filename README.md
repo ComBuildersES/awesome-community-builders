@@ -50,6 +50,7 @@ Este es un recopilatorio de distintos proyectos creados para centralizar eventos
 * [Otros buscadores (e.j. call for papers)](https://github.com/devrelcollective/awesome-devrel#cfps-and-speaking-resources)
 * [Spain calendar of Events](https://sudden-larch-de8.notion.site/1e953627e992471988f9654235413969?v=820a3b3fbce44b2798ca838b5250b80a) (mantenido hasta 2023)
 * [TechConf.directory](https://techconf.directory/)
+* [TechConf.es](https://www.techconf.es/) ([github.com/npatarino/tech-conferences-spain](https://github.com/npatarino/tech-conferences-spain/tree/main))
 
 ### Tech meetups
 
