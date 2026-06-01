@@ -373,6 +373,7 @@ Puedes enviar un pull request para proponer una actualización, pero antes de ha
       <td align="center" valign="top" width="14.28%"><a href="https://soydachi.com/"><img src="https://avatars.githubusercontent.com/u/1771785?v=4?s=100" width="100px;" alt="Dachi Gogotchuri"/><br /><sub><b>Dachi Gogotchuri</b></sub></a><br /><a href="#data-soydachi" title="Data">🔣</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Olirale"><img src="https://avatars.githubusercontent.com/u/47412847?v=4?s=100" width="100px;" alt="Olirale"/><br /><sub><b>Olirale</b></sub></a><br /><a href="#data-Olirale" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/npatarino"><img src="https://avatars.githubusercontent.com/u/209096?v=4?s=100" width="100px;" alt="Nicolás Patarino"/><br /><sub><b>Nicolás Patarino</b></sub></a><br /><a href="#data-npatarino" title="Data">🔣</a></td>
     </tr>
   </tbody>
