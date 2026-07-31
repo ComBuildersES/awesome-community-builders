@@ -376,6 +376,7 @@ Puedes enviar un pull request para proponer una actualización, pero antes de ha
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Olirale"><img src="https://avatars.githubusercontent.com/u/47412847?v=4?s=100" width="100px;" alt="Olirale"/><br /><sub><b>Olirale</b></sub></a><br /><a href="#data-Olirale" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/npatarino"><img src="https://avatars.githubusercontent.com/u/209096?v=4?s=100" width="100px;" alt="Nicolás Patarino"/><br /><sub><b>Nicolás Patarino</b></sub></a><br /><a href="#data-npatarino" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/anaghz"><img src="https://avatars.githubusercontent.com/u/14812693?v=4?s=100" width="100px;" alt="anaghz"/><br /><sub><b>anaghz</b></sub></a><br /><a href="#data-anaghz" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
