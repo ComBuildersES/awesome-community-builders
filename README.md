@@ -148,9 +148,10 @@ Selección de herramientas que pueden facilitar muchas de las tareas habituales 
 
 ### Automatización
 
-  * [Zapier](https://zapier.com/app/home): Plataforma para automatizar flujos de trabajo conectando aplicaciones sin necesidad de programar. (Freemium)
   * [Make](https://www.make.com/en): Alternativa visual a Zapier para automatizar procesos entre múltiples herramientas. (Freemium)
   * [N8N](https://n8n.io/): Herramienta de automatización de flujos de trabajo de código abierto, autohospedable y altamente personalizable. (Open source)
+  * [OpenSparta](https://opensparta.com/en) - Discover relevant audiences, manage Telegram accounts, and streamline engagement from one workspace.
+  * [Zapier](https://zapier.com/app/home): Plataforma para automatizar flujos de trabajo conectando aplicaciones sin necesidad de programar. (Freemium)
 
 ### Centralizar enlaces
 
