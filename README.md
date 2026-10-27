@@ -72,6 +72,7 @@ Este es un recopilatorio de distintos proyectos creados para centralizar eventos
 * [Calendario eventos tech de Madrid](https://madridtechtalks.com/)
 * [Eventgarden.io](https://eventgarden.io/) (by [Carlillo](https://x.com/carlillo))  (internacional)
 * [Eventos.wiki](https://www.eventos.wiki) (by [Alberto Chamorro](https://github.com/achamorro-dev/eventoswiki)) (España)
+* [Saraoia.com](https://saraoia.com/en/malaga): eventos de IA en España
 
 ## Documentación
 
