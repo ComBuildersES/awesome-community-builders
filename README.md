@@ -52,10 +52,12 @@ Este es un recopilatorio de distintos proyectos creados para centralizar eventos
 * [Spain calendar of Events](https://sudden-larch-de8.notion.site/1e953627e992471988f9654235413969?v=820a3b3fbce44b2798ca838b5250b80a) (mantenido hasta 2023)
 * [TechConf.directory](https://techconf.directory/)
 * [TechConf.es](https://www.techconf.es/) ([github.com/npatarino/tech-conferences-spain](https://github.com/npatarino/tech-conferences-spain/tree/main))
+* [TechXdir.es](https://www.techxdir.es/#encuentros)
 
 ### Tech meetups
 
 * Calendarios por zonas geográficas:
+  * [Calendario de comunidades técnicas de Barcelona](https://digest.hackbarna.com/en)
   * [Calendario de comunidades técnicas de Coruña](https://coruna.events/)
   * [Calendario de eventos técnicos de Granada](https://www.granadatech.org/)
   * [Calendario de comunidades técnicas de La Rioja](https://web.archive.org/web/20230309185755/http://www.lariojatech.org/) (*inactivo*)
@@ -70,6 +72,7 @@ Este es un recopilatorio de distintos proyectos creados para centralizar eventos
 * [Agenda Betabeers](https://betabeers.com/event/) (sin actividad desde 2022)
 * [Calendario eventos tech de Barcelona](https://yannklein.github.io/tech-eventboard/?city=barcelona)
 * [Calendario eventos tech de Madrid](https://madridtechtalks.com/)
+* [eventos.queseo.es](https://eventos.queseo.es/) (La agenda de eventos para **profesionales de todo tipo** en España)
 * [Eventgarden.io](https://eventgarden.io/) (by [Carlillo](https://x.com/carlillo))  (internacional)
 * [Eventos.wiki](https://www.eventos.wiki) (by [Alberto Chamorro](https://github.com/achamorro-dev/eventoswiki)) (España)
 * [Saraoia.com](https://saraoia.com/en/malaga): eventos de IA en España
