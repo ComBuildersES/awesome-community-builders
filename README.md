@@ -339,6 +339,7 @@ Estas métricas pueden ayudar a justificar el impacto de una comunidad (por ejem
 
 * **Utilidades**:
   * [Adjust YouTube timestamp](https://github.com/hhkaos/adjust-youtube-timestamp-after-trim): Herramientas para ajustar YouTube timestamps después de recortar el inicio de un vídeo.
+  * [GetYouTubeTranscript](https://getyoutubetranscript.com/): Obtén la transcripción con marcas de tiempo de un vídeo de YouTube (por ejemplo, la grabación de una charla o un meetup), descárgala como TXT, SRT o VTT, tradúcela y genera un resumen con IA para el post o la newsletter. (Freemium)
 
 * **Videollamadas**:
   * [Discord video calls](https://support.discord.com/hc/en-us/articles/360041721052-Video-Calls): Funcionalidad integrada en Discord para realizar videollamadas grupales con baja latencia y opciones de pantalla compartida. (Freemium)
